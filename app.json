@@ -1,0 +1,12 @@
+{
+  "name": "deviceinfo",
+  "displayName": "deviceinfo",
+  "expo": {
+    "name": "deviceinfo",
+    "slug": "deviceinfo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+# React-Native-Device-Hardware-Info
